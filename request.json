@@ -2,9 +2,9 @@
   "email": "test@example.com",
   "secret": "abc123",
   "task": "hello_world_app",
-  "round": 1,
-  "nonce": "xyz987",
-  "brief": "Create a simple HTML page",
+  "round": 2,
+  "nonce": "xyz988",
+  "brief": "Update the HTML page with a new message",
   "checks": [],
   "attachments": [],
   "evaluation_url": "http://127.0.0.1:9000/receive-eval"
