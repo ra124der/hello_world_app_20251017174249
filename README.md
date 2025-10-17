@@ -1,8 +1,8 @@
 # hello_world_app
 
-**Round:** 1
+**Round:** 2
 
-**Brief:** Create a simple HTML page
+**Brief:** Update the HTML page with a new message
 
 ## Setup
 Just open `index.html` in a browser.
